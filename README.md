@@ -1,0 +1,2 @@
+# power_plant_energy_prediction
+Model of power_plant_energy_prediction for beginners
